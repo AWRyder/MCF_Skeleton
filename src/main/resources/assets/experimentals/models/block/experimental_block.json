@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "experimentals:blocks/texture",
+    "up": "experimentals:blocks/texture",
+    "north": "experimentals:blocks/texture",
+    "east": "experimentals:blocks/texture",
+    "south": "experimentals:blocks/texture",
+    "west": "experimentals:blocks/texture",
+    "particle": "blocks/lapis_block"
+  }
+}

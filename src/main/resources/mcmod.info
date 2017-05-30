@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Experimentals",
+  "name": "Wyvernia: Experimentals",
+  "description": "Experiments",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AWRyder"],
+  "credits": "The brick on the wall.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
