@@ -1,3 +1,10 @@
+This skeleton is based of Forge's project and with examples taken from MinecraftByExample by TheGreyGhost.
+
+Link to MinecraftByExample's repository: https://github.com/TheGreyGhost/MinecraftByExample/
+
+Below this line, follows Forge's own README.
+
+
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
